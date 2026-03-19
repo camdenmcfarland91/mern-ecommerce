@@ -54,10 +54,3 @@ We welcome contributions to MotorMart! If you'd like to contribute, please follo
 
 If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/your-username/motormart/issues). We appreciate your feedback!
 
-## Team
-
-- Suyash Pandey - GitHub: [SuyashPandey30](https://github.com/SuyashPandey30)
-- Divyanshu Singh - GitHub: [DivyanshuSingh2025](https://github.com/DivyanshuSingh2025)
-- Daksh Singh - GitHub: [Daksh-Singh2025](https://github.com/Daksh-Singh2025)
-- Madhusudhan Das - GitHub: [madhusudhandas](https://github.com/madhusudhandas)
-- Sudhanshu Shukla - GitHub: [sudhanshuofficial](https://github.com/sudhanshuofficial)
